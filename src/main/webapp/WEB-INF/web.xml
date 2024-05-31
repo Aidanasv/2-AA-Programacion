@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+    <display-name>Music Vibe</display-name>
+
+    <context-param>
+        <description>Ruta donde guardar las imágenes</description>
+        <param-name>image-path</param-name>
+        <param-value>/Users/aidan/apache-tomcat-9.0.87-windows-x64/apache-tomcat-9.0.87/webapps/musicvibe-picture</param-value>
+    </context-param>
+
+    <context-param>
+        <description>Ruta donde guardar los audios</description>
+        <param-name>audio-path</param-name>
+        <param-value>/Users/aidan/apache-tomcat-9.0.87-windows-x64/apache-tomcat-9.0.87/webapps/musicvibe-picture</param-value>
+    </context-param>
+
+</web-app>

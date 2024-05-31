@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.jdbi:jdbi3-core:3.39.1">
+    <archive path="C:/Users/aidan/.m2/repository/org/jdbi/jdbi3-core/3.39.1/jdbi3-core-3.39.1.jar" />
+  </library>
+  <library name="Maven: org.jdbi:jdbi3-sqlobject:3.39.1">
+    <archive path="C:/Users/aidan/.m2/repository/org/jdbi/jdbi3-sqlobject/3.39.1/jdbi3-sqlobject-3.39.1.jar" />
+  </library>
+  <library name="Maven: org.projectlombok:lombok:1.18.30">
+    <archive path="C:/Users/aidan/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <archive path="C:/Users/aidan/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.14.0">
+    <archive path="C:/Users/aidan/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.36">
+    <archive path="C:/Users/aidan/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" />
+  </library>
+  <library name="Maven: io.leangen.geantyref:geantyref:1.3.14">
+    <archive path="C:/Users/aidan/.m2/repository/io/leangen/geantyref/geantyref/1.3.14/geantyref-1.3.14.jar" />
+  </library>
+  <library name="Maven: com.mysql:mysql-connector-j:8.0.33">
+    <archive path="C:/Users/aidan/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.21.9">
+    <archive path="C:/Users/aidan/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" />
+  </library>
+  <library name="bootstrap">
+    <archive path="C:/Users/aidan/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@5.3.3_dist_css_bootstrap.css" />
+    <archive path="C:/Users/aidan/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@5.3.3_dist_js_bootstrap.bundle.js" />
+  </library>
+</eclipse-userlibraries>
+
